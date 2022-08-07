@@ -18,5 +18,5 @@
 
 * [Telegram](https://t.me/mr_fozan) - отвечаю быстрее всего.
 * [VK](https://vk.com/id197820576) - не отвечаю вообще.
-* [Мой Telegram канал](https://t.me/fozan_inc)
-* E-mail - nazar.korkin@mail.ru - отвечаю от 1-7 дней.
+* [Мой Telegram канал](https://t.me/fozan_inc) - публикую информацию различную информацию.
+* E-mail - nazar.korkin@mail.ru - отвечаю только на деловые предложения.
