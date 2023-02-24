@@ -10,13 +10,10 @@
 
 ## Проекты
 
-* [utils-number](https://github.com/Fozan-Developer/utils-number) - коррекция вида чисел.
-* [indicator-text](https://github.com/Fozan-Developer/indicator-text) - прогресс-бар в тексте.
-* [declination](https://github.com/Fozan-Developer/declination) - склонение слова по цифре.
+* [json.db](https://github.com/Fozan-Developer/json.db) - библиотека для работы с базой данных JSON.
+* [utils.js](https://github.com/Fozan-Developer/utils.js) - библиотека для работы с символами.
 
 ## Мои Контакты
 
-* [Telegram](https://t.me/mr_fozan) - отвечаю быстрее всего.
-* [VK](https://vk.com/id197820576) - не отвечаю вообще.
-* [Мой Telegram канал](https://t.me/fozan_inc) - публикую информацию различную информацию.
+* [Telegram канал](https://t.me/fozan_inc) - публикую различную информацию.
 * E-mail - nazar.korkin@mail.ru - отвечаю только на деловые предложения.
