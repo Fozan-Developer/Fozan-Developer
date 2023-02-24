@@ -1,17 +1,17 @@
-# Mr_Fozan
+# ФОЗАН
 
 **Node.JS Developer**
 
-Вот информация обо мне:
+Информация обо мне:
 
-* Пишу ботов VK, Telegram, Discord любой сложности.
-* Держу свои Proxy сервера.
-* Занимаюсь обширными проектами.
+* 17 лет.
+* Занимаюсь разработкой и регулярными обновлениями своих библиотек.
+* Разрабатываю любой сложности ботов Telegram, VK, Discord.
 
 ## Проекты
 
-* [json.db](https://github.com/Fozan-Developer/json.db) - библиотека для работы с базой данных JSON.
-* [utils.js](https://github.com/Fozan-Developer/utils.js) - библиотека для работы с символами.
+* [Json.db](https://github.com/Fozan-Developer/json.db) - библиотека для работы с базой данных JSON.
+* [Utils.js](https://github.com/Fozan-Developer/utils.js) - библиотека для работы с символами.
 
 ## Мои Контакты
 
