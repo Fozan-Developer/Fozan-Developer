@@ -2,11 +2,11 @@
 
 ## Библиотеки
 
-* [Json.db](https://github.com/Fozan-Developer/json.db) - библиотека для работы с базой данных JSON.
-* [Utils.js](https://github.com/Fozan-Developer/utils.js) - библиотека для работы с символами.
-* [Division-rank](https://github.com/Fozan-Developer/division-rank) - библиотека для работы с дивизиями
-* [Level-algorithm](https://github.com/Fozan-Developer/level-algorithm) - библиотека для работы с уровнями
+* [Json.db](https://github.com/Fozan-Developer/json.db) - библиотека для работы с базами данных в формате JSON.
+* [Utils.js](https://github.com/Fozan-Developer/utils.js) - библиотека для обработки и манипуляции строками и символами.
+* [Division-rank](https://github.com/Fozan-Developer/division-rank) - библиотека для управления иранжированием дивизий.
+* [Level-algorithm](https://github.com/Fozan-Developer/level-algorithm) - библиотека для расчета уровней и их алгоритмов.
 
-## Мои Контакты
+## Мои контакты
 
-* [Telegram канал](https://t.me/fooozan) - публикую различную информацию.
+* [Telegram-канал](https://t.me/fooozan) - публикую различную информацию.
